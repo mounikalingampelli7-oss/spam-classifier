@@ -3,7 +3,7 @@
 A machine learning web app that detects whether a message is spam or not in real-time.
 
 ## 🔗 Live Demo
-[Click here to try the app](https://mounika-spam-classifier.streamlit.app)
+[Click here to try the app](https://spam-classifier-mounika.streamlit.app)
 
 ## 🛠️ Tech Stack
 - Python
